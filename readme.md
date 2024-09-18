@@ -29,5 +29,5 @@ Este proyecto es una aplicación que emula las funcionalidades básicas de la re
 
 ![Profile](images/perfil.png)
 
-
+### Aqui se actualiza tu data
 ![Profile_U](images/perfil_act.png)
