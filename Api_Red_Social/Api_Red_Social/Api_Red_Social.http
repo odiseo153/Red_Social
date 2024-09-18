@@ -1,0 +1,6 @@
+@Api_Red_Social_HostAddress = http://localhost:5119
+
+GET {{Api_Red_Social_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

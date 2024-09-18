@@ -1,0 +1,190 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\appsettings.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Api_Red_Social.exe
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Api_Red_Social.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Api_Red_Social.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Api_Red_Social.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Api_Red_Social.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\MediatR.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Application.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets\msbuild.Api_Red_Social.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets\msbuild.build.Api_Red_Social.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api_Red_Social.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api_Red_Social.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\scopedcss\bundle\Api_Red_Social.styles.css
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_.316E464C.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\refint\Api_Red_Social.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\ref\Api_Red_Social.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\appsettings.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Api_Red_Social.exe
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Api_Red_Social.deps.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Api_Red_Social.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Api_Red_Social.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Api_Red_Social.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\MediatR.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Application.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets\msbuild.Api_Red_Social.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets\msbuild.build.Api_Red_Social.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api_Red_Social.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api_Red_Social.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\scopedcss\bundle\Api_Red_Social.styles.css
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_.316E464C.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\refint\Api_Red_Social.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\Api_Red_Social.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\obj\Debug\net8.0\ref\Api_Red_Social.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Red Social\Api_Red_Social\Api_Red_Social\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
